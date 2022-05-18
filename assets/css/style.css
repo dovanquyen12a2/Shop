@@ -17021,7 +17021,7 @@ Layout - Header
   /* color: #FFF; */
 }
 .main-menu nav > ul > li > a:hover, .main-menu nav > ul > li > a.active {
-  background: #ea1c26;
+  background: #FFC107;
   color: #FFF;
 }
 
